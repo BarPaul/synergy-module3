@@ -8,7 +8,8 @@
 ## 3. [Домашнее задание Введение в ООП. Классы и объекты](https://github.com/BarPaul/synergy-module2/tree/main/3.%20classes%26object)
 ## 4. [Домашнее задание Наследование в классах, создание собственных объектов](https://github.com/BarPaul/synergy-module2/tree/main/4.%20inheritance)
 ## 5. [Домашнее задание Работа с файлами](https://github.com/BarPaul/synergy-module2/tree/main/5.%20work_files)
-## 6. [Домашнее задание Pygame. Графическим интерфейсом и основной логикой игры. Часть 2](https://github.com/BarPaul/synergy-module2/tree/main/6.%20pygame_project)
+## 6. [Домашнее задание Итоговый Проект на PyGame](https://github.com/BarPaul/synergy-module2/tree/main/6.%20pygame_project)
+## [Разбор итогового теста](https://github.com/BarPaul/synergy-module2/tree/main/test/readme.md)
 Автор решений: **Баранас Павел Андреевич** (группа 6) <br>
 Автор задач: **НОЧ ВУЗ МФПУ "Синергия"** <br>
 ©️ 2024 год
