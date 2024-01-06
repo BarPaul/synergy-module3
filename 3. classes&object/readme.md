@@ -18,7 +18,7 @@
   1.2 Присваем аттрибуты `mark`, `model`, `year` данными из аргументов <br>
   ```py
   class Car:
-    def __init__(self, mark, model. year):
+    def __init__(self, mark, model, year):
       self.mark = mark
       self.model = model
       self.year = year
@@ -28,7 +28,7 @@
   ```py
   class Car:
     # Часть прошлого кода ...
-    def display_info():
+    def display_info(self):
       print(f"Марка: {self.mark}")
       print(f"Модель: {self.model}")
       print(f"Год выпуска: {self.year}")
@@ -36,12 +36,12 @@
 ## Полный код, без комментариев
 ```py
 class Car:
-    def __init__(self, mark, model. year):
+    def __init__(self, mark, model, year):
       self.mark = mark
       self.model = model
       self.year = year
 
-    def display_info():
+    def display_info(self):
       print(f"Марка: {self.mark}")
       print(f"Модель: {self.model}")
       print(f"Год выпуска: {self.year}")
