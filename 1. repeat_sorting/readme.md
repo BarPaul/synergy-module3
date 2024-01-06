@@ -77,5 +77,5 @@ numbers = (
 print(numbers[-1])
 ```
 <p align="center">
-  <img alt="Следующее задание" src="https://img.shields.io/badge/%D0%A1%D0%BB%D0%B5%D0%B4%D1%83%D1%8E%D1%89%D0%B5%D0%B5-%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-e22445?style=for-the-badge&logo=accenture&logoColor=e22445&link=https%3A%2F%2Fgithub.com%2FBarPaul%2Fsynergy-module2%2Fblob%2Fmain%2F2.%25202D%2520lists%2Freadme.md">
+  <img alt="Следующее задание" src="https://ya.ru">
 </p>
