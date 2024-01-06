@@ -18,33 +18,33 @@
   1.2 Присваем аттрибуты `mark`, `model`, `year` данными из аргументов <br>
   ```py
   class Car:
-    def __init__(self, mark, model, year):
-      self.mark = mark
-      self.model = model
-      self.year = year
+      def __init__(self, mark, model, year):
+          self.mark = mark
+          self.model = model
+          self.year = year
   ```
   2. Добавляем к классу метод `display_info()` <br>
     2.1 Делаем выводы для каждого значение о класса с помощью F-строк
   ```py
   class Car:
-    # Часть прошлого кода ...
-    def display_info(self):
-      print(f"Марка: {self.mark}")
-      print(f"Модель: {self.model}")
-      print(f"Год выпуска: {self.year}")
+      # Часть прошлого кода ...
+      def display_info(self):
+          print(f"Марка: {self.mark}")
+          print(f"Модель: {self.model}")
+          print(f"Год выпуска: {self.year}")
   ```
 ## Полный код, без комментариев
 ```py
 class Car:
     def __init__(self, mark, model, year):
-      self.mark = mark
-      self.model = model
-      self.year = year
+        self.mark = mark
+        self.model = model
+        self.year = year
 
     def display_info(self):
-      print(f"Марка: {self.mark}")
-      print(f"Модель: {self.model}")
-      print(f"Год выпуска: {self.year}")
+        print(f"Марка: {self.mark}")
+        print(f"Модель: {self.model}")
+        print(f"Год выпуска: {self.year}")
 ```
 
 <p align="center">
