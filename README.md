@@ -9,7 +9,7 @@
 ## 5. [Домашнее задание №5](https://github.com/BarPaul/synergy-module3/tree/main/homework5)
 ## 6. [Домашнее задание. Кнопки в боте](https://github.com/BarPaul/synergy-module3/tree/main/homework6)
 ## 7. [Домашнее задание №7](https://github.com/BarPaul/synergy-module3/tree/main/homework7)
-## 8-9. [Домашнее задание №8-9](https://github.com/BarPaul/synergy-module3/tree/main/homework8-9)
+## 8-9. [Домашнее задание №8-9](https://github.com/BarPaul/synergy-module3/tree/main/homework8_9)
 ## 10. [Домашнее задание №10](https://github.com/BarPaul/synergy-module3/tree/main/homework10)
 Автор решений: **Баранас Павел Андреевич** (группа 6) <br>
 Автор задач: **НОЧ ВУЗ МФПУ "Синергия"** <br>
